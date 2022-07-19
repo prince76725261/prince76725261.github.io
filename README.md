@@ -16,7 +16,3 @@ I created this application to teach ReactJS to students during my React JS works
 2. Add colors in the type test (Mark the letters that are typed correct with green and wrong ones with red).
 3. Learn about SCSS and replace the CSS files with SCSS.
 4. Learn about Redux and use redux in this project.
-
-## Special Thanks
-
-Special thanks to [https://thepracticetest.com/typing/tests/practice-paragraphs/](https://thepracticetest.com/typing/tests/practice-paragraphs/) for the typing speed test paragraphs and overall inspiration.
