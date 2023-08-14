@@ -58,7 +58,7 @@ class App extends React.Component {
 	render() {
 		return (
 			<div className="app-container">
-				<h1 className="main-heading">Speedy Type</h1>
+				<h1 className="main-heading">Programmer's race</h1>
 				<div className="test-container-main">
 					<TestContainer
 						handleKeyPress={this.handleKeyPress}
