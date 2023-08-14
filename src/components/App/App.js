@@ -9,7 +9,7 @@ import { testDetailsCalculator } from '../../helper/testDetailsCalculator';
 
 const defaultState = {
 	timerStarted: false,
-	timeRemaining: 60,
+	timeRemaining: 20,
 	detailsData: {
 		words: 0,
 		characters: 0,
